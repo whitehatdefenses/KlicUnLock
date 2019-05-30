@@ -104,7 +104,7 @@ Project Link: [https://github.com/whitehatdefenses/KlicUnLock](https://github.co
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Damien Cauquil](https://smartlockpicking.com)
+* [Damien Cauquil](https://digital.security)
 * [Slawomir Jasek](https://smartlockpicking.com)
 
 
