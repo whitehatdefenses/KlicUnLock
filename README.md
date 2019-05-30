@@ -33,6 +33,8 @@
 
 [![Product Name Screen Shot][product-screenshot]]
 
+Vulnerabilities exist in the Klic Lock smart padlocks by Tzumi Electronics that allow the unlocking of any lock using a valid username/password or lockKey/MAC combination.
+
 This program was developed during scientific research in Bluetooth lock security.  Attempts were made to contact the manufacturer 45 days before release.  This vulnerability was assigned to CVE-2019-11334.
 
 ### Built With
