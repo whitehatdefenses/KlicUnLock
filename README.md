@@ -33,7 +33,7 @@
 
 [![Product Name Screen Shot][product-screenshot]]
 
-Vulnerabilities exist in the Klic Lock smart padlocks by Tzumi Electronics that allow the unlocking of any lock using a valid username/password or lockKey/MAC combination.
+An authentication bypass in website post requests in the Tzumi Electronics Klic Lock application 1.0.9 for mobile devices allows attackers to access resources (that are not otherwise accessible without proper authentication) via capture-replay. Physically proximate attackers can use this information to unlock unauthorized Tzumi Electronics Klic Smart Padlock Model 5686 Firmware 6.2
 
 This program was developed during scientific research in Bluetooth lock security.  Attempts were made to contact the manufacturer 45 days before release.  This vulnerability was assigned to CVE-2019-11334.
 
